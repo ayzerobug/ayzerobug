@@ -8,8 +8,8 @@
 
 <ul>
   <li>🌍 I'm based in Nigeria</li>
-  <li>🖥️ See my portfolio at ayzerobug.com</li>
-  <li>✉️  You can contact me at ayzerobug@gmail.com</li>
+  <li>🖥️ See my portfolio at <a href='ayzerobug.com'>ayzerobug.com</a></li>
+  <li>✉️  You can contact me at <a href='mailto:ayzerobug@gmail.com'>ayzerobug@gmail.com</a></li>
   <li>🔭 I’m currently learning <strong>Machine Learning</strong>. </li>
   <li>🤝  I'm open to collaborating on interesting projects as a developer or designer</li>
   <li>💬 Ping me about anything <strong>Web & Mobile App Development</strong>.</li>
