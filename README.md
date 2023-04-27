@@ -1,5 +1,5 @@
 
-<h2>Hey Fam👋❤️, I'm Ayomide Micheal <span>(Ayzerobug)</span></h2>
+<h2>Hey Fam👋❤️, I'm Ayomide Micheal</h2>
 <p>I am a full stack web and mobile app developer</p>
 
 
