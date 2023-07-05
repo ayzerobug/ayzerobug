@@ -1,6 +1,6 @@
 
 <h2>Hey Fam👋❤️, I'm Ayomide Micheal</h2>
-<p>I am a full stack web and mobile app developer</p>
+<p>Software Engineer</p>
 
 
 
